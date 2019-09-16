@@ -1,0 +1,101 @@
+id,city,state_id,state_name,county_name,latitude,longitude,population,density,timezone
+1840034016,New York,NY,New York,New York,40.6943,-73.9249,19354922,11084,America/New_York
+1840020491,Los Angeles,CA,California,Los Angeles,34.1139,-118.4068,12815475,3295,America/Los_Angeles
+1840000494,Chicago,IL,Illinois,Cook,41.8373,-87.6861,8675982,4613,America/Chicago
+1840015149,Miami,FL,Florida,Miami-Dade,25.784,-80.2102,6381966,4971,America/New_York
+1840019440,Dallas,TX,Texas,Dallas,32.7937,-96.7662,5733259,1523,America/Chicago
+1840000673,Philadelphia,PA,Pennsylvania,Philadelphia,40.0076,-75.134,5637884,4548,America/New_York
+1840020925,Houston,TX,Texas,Harris,29.7868,-95.3905,5446468,1402,America/Chicago
+1840006060,Washington,DC,District of Columbia,District of Columbia,38.9047,-77.0163,5289420,4382,America/New_York
+1840013660,Atlanta,GA,Georgia,Fulton,33.7626,-84.4228,5228750,1407,America/New_York
+1840000455,Boston,MA,Massachusetts,Suffolk,42.3188,-71.0846,4637537,5471,America/New_York
+1840020568,Phoenix,AZ,Arizona,Maricopa,33.5722,-112.0891,4081849,1212,America/Phoenix
+1840021117,Seattle,WA,Washington,King,47.6211,-122.3244,3643765,3337,America/Los_Angeles
+1840021543,San Francisco,CA,California,San Francisco,37.7562,-122.443,3603761,7279,America/Los_Angeles
+1840003971,Detroit,MI,Michigan,Wayne,42.3834,-83.1024,3522206,1873,America/Detroit
+1840021990,San Diego,CA,California,San Diego,32.8312,-117.1226,3210314,1687,America/Los_Angeles
+1840007830,Minneapolis,MN,Minnesota,Hennepin,44.9635,-93.2678,2926757,3019,America/Chicago
+1840015982,Tampa,FL,Florida,Hillsborough,27.9937,-82.4454,2804240,1312,America/New_York
+1840018789,Denver,CO,Colorado,Denver,39.7621,-104.8759,2787266,1774,America/Denver
+1840034030,Brooklyn,NY,New York,Kings,40.6501,-73.9496,2629150,14606,America/New_York
+1840034002,Queens,NY,New York,Queens,40.7498,-73.7976,2333054,8247,America/New_York
+1840001592,Baltimore,MD,Maryland,Baltimore (city),39.3051,-76.6144,2170504,2917,America/New_York
+1840020551,Riverside,CA,California,Riverside,33.9381,-117.3948,2084749,1557,America/Los_Angeles
+1840001651,Saint Louis,MO,Missouri,St. Louis (city),38.6358,-90.2451,2078283,1923,America/Chicago
+1840020364,Las Vegas,NV,Nevada,Clark,36.2291,-115.2607,2073045,1838,America/Los_Angeles
+1840019941,Portland,OR,Oregon,Multnomah,45.5372,-122.65,2052796,1874,America/Los_Angeles
+1840022220,San Antonio,TX,Texas,Bexar,29.4722,-98.5247,2002530,1266,America/Chicago
+1840021491,Sacramento,CA,California,Sacramento,38.5667,-121.4683,1854698,1984,America/Los_Angeles
+1840021570,San Jose,CA,California,Santa Clara,37.3018,-121.8485,1821899,2251,America/Los_Angeles
+1840015099,Orlando,FL,Florida,Orange,28.4788,-81.342,1776841,1028,America/New_York
+1840000596,Cleveland,OH,Ohio,Cuyahoga,41.4767,-81.6805,1730363,1915,America/New_York
+1840001254,Pittsburgh,PA,Pennsylvania,Allegheny,40.4396,-79.9763,1715297,2108,America/New_York
+1840003814,Cincinnati,OH,Ohio,Hamilton,39.1412,-84.5059,1648254,1493,America/New_York
+1840034000,Manhattan,NY,New York,New York,40.7834,-73.9662,1643734,27799,America/New_York
+1840019590,Austin,TX,Texas,Travis,30.3006,-97.7517,1638716,1144,America/Chicago
+1840008535,Kansas City,MO,Missouri,Jackson,39.1239,-94.5541,1615621,599,America/Chicago
+1840030084,Indianapolis,IN,Indiana,Marion,39.7771,-86.1458,1564699,921,America/Indiana/Indianapolis
+1840003760,Columbus,OH,Ohio,Franklin,39.986,-82.9852,1528314,1552,America/New_York
+1840003871,Virginia Beach,VA,Virginia,Virginia Beach (city),36.7335,-76.0435,1480383,710,America/New_York
+1840014557,Charlotte,NC,North Carolina,Mecklenburg,35.2079,-80.8303,1467362,1083,America/New_York
+1840033999,Bronx,NY,New York,Bronx,40.8501,-73.8662,1455720,13202,America/New_York
+1840003046,Milwaukee,WI,Wisconsin,Milwaukee,43.064,-87.9669,1377808,2390,America/Chicago
+1840003289,Providence,RI,Rhode Island,Providence,41.8229,-71.4186,1206642,3785,America/New_York
+1840015031,Jacksonville,FL,Florida,Duval,30.3322,-81.6749,1156291,460,America/New_York
+1840021383,Salt Lake City,UT,Utah,Salt Lake,40.7774,-111.9301,1098400,696,America/Denver
+1840036155,Nashville,TN,Tennessee,Davidson,36.1714,-86.7844,1076645,541,America/Chicago
+1840015457,Memphis,TN,Tennessee,Shelby,35.1047,-89.9773,1068873,793,America/Chicago
+1840001698,Richmond,VA,Virginia,Richmond (city),37.5295,-77.4756,1059907,1463,America/New_York
+1840001839,New Orleans,LA,Louisiana,Orleans,30.0687,-89.9288,1029123,896,America/Chicago
+1840014497,Raleigh,NC,North Carolina,Wake,35.8323,-78.6439,1018336,1236,America/New_York
+1840030815,Louisville,KY,Kentucky,Jefferson,38.1662,-85.6488,1011696,909,America/New_York
+1840020428,Oklahoma City,OK,Oklahoma,Oklahoma,35.4676,-97.5136,955998,409,America/Chicago
+1840004836,Bridgeport,CT,Connecticut,Fairfield,41.1909,-73.1958,938406,3524,America/New_York
+1840000386,Buffalo,NY,New York,Erie,42.9017,-78.8487,926261,2472,America/New_York
+1840004773,Hartford,CT,Connecticut,Hartford,41.7661,-72.6834,914751,2741,America/New_York
+1840020696,Fort Worth,TX,Texas,Tarrant,32.7814,-97.3473,874168,978,America/Chicago
+1840022101,Tucson,AZ,Arizona,Pima,32.1546,-110.8782,868391,872,America/Phoenix
+1840023252,El Paso,TX,Texas,El Paso,31.8479,-106.4309,845674,1025,America/Denver
+1840013305,Honolulu,HI,Hawaii,Honolulu,21.3294,-157.846,833671,2234,Pacific/Honolulu
+1840009315,Omaha,NE,Nebraska,Douglas,41.2628,-96.0495,827786,1308,America/Chicago
+1840021024,McAllen,TX,Texas,Hidalgo,26.2325,-98.2467,800904,944,America/Chicago
+1840019176,Albuquerque,NM,New Mexico,Bernalillo,35.1053,-106.6464,758523,1152,America/Denver
+1840006507,Birmingham,AL,Alabama,Jefferson,33.5276,-86.7988,744189,557,America/Chicago
+1840034249,Dayton,OH,Ohio,Montgomery,39.7797,-84.1998,718169,972,America/New_York
+1840000373,Rochester,NY,New York,Monroe,43.168,-77.6162,711998,2245,America/New_York
+1840015988,Sarasota,FL,Florida,Sarasota,27.3391,-82.5439,706245,1497,America/New_York
+1840020319,Fresno,CA,California,Fresno,36.7834,-119.7941,698021,1793,America/Los_Angeles
+1840001044,Allentown,PA,Pennsylvania,Lehigh,40.5961,-75.4756,682899,2668,America/New_York
+1840021672,Tulsa,OK,Oklahoma,Tulsa,36.1284,-95.9042,672054,785,America/Chicago
+1840018905,Concord,CA,California,Contra Costa,37.9722,-122.0016,654770,1640,America/Los_Angeles
+1840015130,Cape Coral,FL,Florida,Lee,26.6444,-81.9956,630134,670,America/New_York
+1840000466,Springfield,MA,Massachusetts,Hampden,42.1155,-72.5395,628076,1874,America/New_York
+1840018825,Colorado Springs,CO,Colorado,El Paso,38.8674,-104.7606,623946,920,America/Denver
+1840015163,Charleston,SC,South Carolina,Charleston,32.8137,-79.9643,616085,477,America/New_York
+1840002928,Grand Rapids,MI,Michigan,Kent,42.9615,-85.6557,602694,1727,America/Detroit
+1840020580,Mission Viejo,CA,California,Orange,33.6095,-117.6551,600474,2094,America/Los_Angeles
+1840000417,Albany,NY,New York,Albany,42.6664,-73.7987,597270,1773,America/New_York
+1840014486,Knoxville,TN,Tennessee,Knox,35.9692,-83.9495,585249,732,America/New_York
+1840013941,Baton Rouge,LA,Louisiana,East Baton Rouge,30.4423,-91.1314,583613,1012,America/Chicago
+1840019148,Bakersfield,CA,California,Kern,35.353,-119.036,574362,982,America/Los_Angeles
+1840020135,Ogden,UT,Utah,Weber,41.228,-111.9677,573632,1233,America/Denver
+1840004850,New Haven,CT,Connecticut,New Haven,41.3112,-72.9245,568144,2706,America/New_York
+1840014730,Columbia,SC,South Carolina,Richland,34.037,-80.9042,566166,380,America/New_York
+1840000791,Akron,OH,Ohio,Summit,41.0802,-81.5219,565920,1231,America/New_York
+1840020174,Provo,UT,Utah,Utah,40.2458,-111.6457,503695,1087,America/Denver
+1840000434,Worcester,MA,Massachusetts,Worcester,42.2705,-71.8079,498997,1918,America/New_York
+1840020566,Mesa,AZ,Arizona,Maricopa,33.4017,-111.7181,496401,1388,America/Phoenix
+1840015094,Palm Bay,FL,Florida,Brevard,27.9861,-80.6628,489912,656,America/New_York
+1840000572,Toledo,OH,Ohio,Lucas,41.6639,-83.5822,488672,1322,America/New_York
+1840020553,Murrieta,CA,California,Riverside,33.5719,-117.1909,483681,1302,America/Los_Angeles
+1840001686,Wichita,KS,Kansas,Sedgwick,37.6897,-97.3442,483057,938,America/Chicago
+1840007069,Des Moines,IA,Iowa,Polk,41.5725,-93.6104,481222,949,America/Chicago
+1840034032,Staten Island,NY,New York,Richmond,40.5834,-74.1496,476015,3155,America/New_York
+1840020490,Long Beach,CA,California,Los Angeles,33.8059,-118.161,469450,3603,America/Los_Angeles
+1840013501,Greenville,SC,South Carolina,Greenville,34.8363,-82.365,467894,907,America/New_York
+1840015509,Little Rock,AR,Arkansas,Pulaski,34.7255,-92.3581,442699,645,America/Chicago
+1840001288,Harrisburg,PA,Pennsylvania,Dauphin,40.2752,-76.8843,441580,2336,America/New_York
+1840019390,Denton,TX,Texas,Denton,33.2176,-97.1421,440146,548,America/Chicago
+1840002915,Madison,WI,Wisconsin,Dane,43.0808,-89.3922,439553,1279,America/Chicago
+1840020121,Reno,NV,Nevada,Washoe,39.5497,-119.8483,433271,884,America/Los_Angeles
+1840015119,Port Saint Lucie,FL,Florida,St. Lucie,27.2796,-80.3883,432589,614,America/New_York

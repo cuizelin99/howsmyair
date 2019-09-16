@@ -1,0 +1,14 @@
+requests
+unittest2
+flask
+flask_restless
+flask_sqlalchemy
+flask_cors
+psycopg2
+sqlalchemy
+selenium
+black
+coverage
+mypy
+pylint
+pydoc-markdown

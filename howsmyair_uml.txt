@@ -1,0 +1,66 @@
+@startuml
+object illness
+illness : **illness_name (PK)**
+illness : illness_desc
+illness : illness_lethality
+illness : illness_symptoms
+illness : illness_contagious
+illness : illness_treatable
+illness : related_locations
+illness : related_pollutants
+illness : genetic
+
+object location
+location : **id (PK)**
+location : city
+location : state_id
+location : state_name
+location : county_name
+location : latitude
+location : longitude
+location : population
+location : density
+location : timzone
+
+object pollutants
+pollutants : **chemical_name (PK)** 
+pollutants : CAS_or_EDF_Substance_ID
+pollutants : inhalation_cancer_potency
+pollutants : inhalation_cancer_potency_units
+pollutants : inhalation_cancer_potency_source
+pollutants : inhalation_reference_concentration
+pollutants : inhalation_reference_concentration_units
+pollutants : inhalation_reference_concentration_source
+pollutants : national_ambient_air_quality_std
+pollutants : national_ambient_air_quality_std_units
+pollutants : national_ambient_air_quality_std_source
+pollutants : chemspider_id
+pollutants : related_locations
+pollutants : related_illnesses
+pollutants : Nat_Avg_PV
+
+object illnesslocations
+illnesslocations : **illnesslocations_id (pk)**
+illnesslocations : location_id (FK)
+illnesslocations : illness_name (FK)
+
+object pollutantillnesses
+pollutantillnesses : **pollutantillnesses_id (PK)** 
+pollutantillnesses : pollutant_name (FK)
+pollutantillnesses : illness_name (FK)
+
+object locationpollutants
+locationpollutants : **locationpollutants_id(PK)** 
+locationpollutants : chemical_name (FK)
+locationpollutants : location_id (FK)
+
+illness "1" o-- "*" illnesslocations
+location "1" o-- "*" illnesslocations
+
+pollutants "1" o-- "*" pollutantillnesses
+illness "1" o-- "*" pollutantillnesses
+
+location "1" o-- "*" locationpollutants
+pollutants "1" o-- "*" locationpollutants
+
+@enduml

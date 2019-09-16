@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 2.5rem;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body, html {
+  height: 100%;
+}
+
+.navibar {
+   background-color: white;
+   position: sticky;
+   top: 0;
+   border-bottom: 2px solid #535353;
+   z-index: 999;
+}
+
+.logo {
+   padding-left: 0.5rem;
+   font-size: 2.2rem;
+   font-family: 'Poppins', sans-serif;
+   color: #535353;
+}
+
+.bg {
+  background-image: url("./assets/cloud.png");
+  height: 90vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  image: url("./assets/airlogo.png");
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

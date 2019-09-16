@@ -1,0 +1,66 @@
+{
+  "name": "howsmyair",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@weknow/react-bubble-chart-d3": "^1.0.12",
+    "axios": "^0.19.0",
+    "babel": "^6.23.0",
+    "bootstrap": "^4.3.1",
+    "chromedriver": "^75.0.1",
+    "d3": "^5.9.7",
+    "file-loader": "^4.0.0",
+    "geckodriver": "^1.16.2",
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-dom": "^16.8.6",
+    "react-faux-dom": "^4.5.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-ultimate-pagination": "^1.2.0",
+    "reactstrap": "^8.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.4",
+    "serve": "^11.1.0",
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "NODE_ENV=test mocha --require @babel/register --require ignore-styles test/*.test.js",
+    "eject": "react-scripts eject",
+    "s-test": "mocha test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@babel/register": "^7.4.4",
+    "babel-plugin-inline-react-svg": "^1.1.0",
+    "babel-preset-react-app-babel-7": "^4.0.2-0",
+    "chai": "^4.2.0",
+    "chai-enzyme": "^1.0.0-beta.1",
+    "cheerio": "^1.0.0-rc.3",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "ignore-styles": "^5.0.1",
+    "jsdom": "15.1.1",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^6.1.4"
+  }
+}

@@ -1,0 +1,99 @@
+pollutantillnesses_id,pollutant_name,illness_name
+1,OZONE,Acute Respiratory Distress Syndrome 
+2,HYDRAZINE SULFATE,Severe Acute Respiratory Syndrome
+3,HYDROBROMIDE ACID,Lymphangioleiomyomatosis
+4,ETHYLBENZENE,Silicosis
+5,STYRENE,Hypersensitivity Pneumonitis
+6,BORIC ACID,Bronchiectasis
+7,RADON,Lymphangioleiomyomatosis
+8,BENZYL CHLORIDE,Severe Acute Respiratory Syndrome
+9,CHLORINE DIOXIDE,Coccidioidomycosis
+10,ALMOND ARTIFICIAL ESSENTIAL OIL,Bronchiectasis
+11,N-NITROSOPIPERIDINE,Emphysema
+12,SODIUM SELENITE (H2O3SE.2NA),Nontuberculosis Mycobacteria
+13,NITROGEN DIOXIDE,Respiratory Syncytial Virus
+14,"4,4'-METHYLENEBIS(2-CHLOROANILINE)",Bronchiolitis
+15,"1,1'-METHYLENEBIS(4-ISOCYANATOBENZENE)",Byssinosis
+16,CAPROLACTAM,Bronchiolitis
+17,"2,4-DIMETHYLPHENOL",Emphysema
+18,SODIUM BICHROMATE,Cystic Fibrosis
+19,CHLORAMINE,Primary Ciliary Dyskinesia
+20,CARBENDAZIM,Mesothelioma
+21,P-XYLENE,Bronchiolitis
+22,P-CRESOL,Histoplasmosis
+23,"1,4-DICHLOROBENZENE",Pneumonia
+24,P-PHENYLENEDIAMINE,Influenza
+25,COKE OVEN EMISSIONS,Primary Ciliary Dyskinesia
+26,"1,2-BUTYLENE OXIDE",Nontuberculosis Mycobacteria
+27,EPICHLOROHYDRIN,Severe Acute Respiratory Syndrome
+28,"1,2-DIBROMOETHANE",Lymphangioleiomyomatosis
+29,"1,3-BUTADIENE",Respiratory Syncytial Virus
+30,"1,2-DICHLOROETHANE",Mesothelioma
+31,ETHYLENEDIAMINE,Sudden Infant Death Syndrome
+32,GLYPHOSATE,Bronchiolitis
+34,ETHYLENE GLYCOL,Lymphangioleiomyomatosis
+35,CYANIDE COMPOUNDS,Lymphangioleiomyomatosis
+36,CHLOROMETHYL METHYL ETHER,Byssinosis
+37,DIBENZOFURANS (CHLORINATED),Mesothelioma
+38,VINYL ACETATE,Acute Respiratory Distress Syndrome 
+39,METHYL ISOBUTYL KETONE,Histoplasmosis
+40,MALEIC ANHYDRIDE,Bronchiectasis
+41,M-XYLENE,Sudden Infant Death Syndrome
+42,M-CRESOL,Histoplasmosis
+43,MESITYLENE,Bronchiectasis
+44,TOLUENE,Coccidioidomycosis
+45,CYCLOHEXYLAMINE,Lymphangioleiomyomatosis
+46,CYCLOHEXANONE,Influenza
+47,PHENOL,Asthma
+48,MALONONITRILE,Asthma
+49,ETHYLENE GLYCOL MONOMETHYL ETHER,Coccidioidomycosis
+50,FURAN,Histoplasmosis
+51,ETHYLENE GLYCOL MONOMETHYL ETHER ACETATE,Cystic Fibrosis
+52,N-HEXANE,Emphysema
+53,ETHYLENE GLYCOL MONOETHYL ETHER,Asbestosis
+54,PYRIDINE,Primary Ciliary Dyskinesia
+56,GASOLINE VAPORS,Sarcoidosis
+57,GLUTARALDHYDE,Asbestosis
+58,DIETHANOLAMINE,Sleep Apnea
+59,N-NITROSODIETHANOLAMINE,Middle Eastern Respiratory Syndrome
+60,ETHYLENE GLYCOL MONOBUTYL ETHER,Lymphangioleiomyomatosis
+61,PROPANE SULTONE,Lung Cancer
+62,MINERAL FIBERS,Silicosis
+63,PROPYLENE,Asthma
+64,ENDOSULFAN,Acute Bronchitis
+65,SILICA,Asthma
+66,"2,4,6-TRINITROTOLUENE",Lymphangioleiomyomatosis
+67,"3,3'-DIMETHOXYBENZIDINE",Emphysema
+68,NICKEL SUBSULFIDE,Primary Ciliary Dyskinesia
+69,TRIETHYLAMINE,Lung Cancer
+70,MALATHION,Respiratory Syncytial Virus
+71,FENITROTHION,Pneumonia
+72,DIPHENYLAMINE,Sudden Infant Death Syndrome
+73,PHENYL GLYCIDYL ETHER,Mesothelioma
+74,HYDROQUINONE,Hantavirus Pulmonary Syndrome
+75,"CROTONALDEHYDE, (E)-",Lung Cancer
+76,"1,4-DIOXANE",Cystic Fibrosis
+77,DIMETHYLAMINE,Human Metapneumovirus
+78,METHACRYLONITRILE,Asbestosis
+79,TETRACHLOROETHYLENE,Histoplasmosis
+80,DIMETHYL PHTHALATE,Respiratory Syncytial Virus
+81,MOLYBDENUM TRIOXIDE,Asthma
+82,NICKEL OXIDE,Tuberculosis
+83,VANADIUM OXIDE (5),Byssinosis
+84,ZINC PHOSPHIDE,Hypersensitivity Pneumonitis
+85,XYLENE (MIXED ISOMERS),Pneumonia
+86,POLYCHLORINATED BIPHENYLS,Mesothelioma
+87,METHYL ETHYL KETONE PEROXIDE,Pneumonia
+88,SODIUM SELENATE (H2O4SE.2NA),Human Metapneumovirus
+89,PHENAZOPYRIDINE HYDROCHLORIDE,Lung Cancer
+90,SODIUM VANADIUM OXIDE,Sarcoidosis
+91,THIRAM,Severe Acute Respiratory Syndrome
+92,LITHIUM CHROMATE,Cystic Fibrosis
+93,SODIUM CYANIDE,Pneumonia
+94,POTASSIUM CYANIDE,Lung Cancer
+95,"1,2-TRANS-DICHLOROETHYLENE",Primary Ciliary Dyskinesia
+96,"2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN (TCDD)",Acute Bronchitis
+97,PROPACHLOR,Middle Eastern Respiratory Syndrome
+98,VINYLTOLUENE,Tuberculosis
+99,TOLUENE DIISOCYANATE (MIXED ISOMERS),Asbestosis
+100,"1,1,1-TRICHLORO-2,2-DIHYDROXYETHANE",Pneumonia

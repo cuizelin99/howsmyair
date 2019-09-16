@@ -1,0 +1,99 @@
+chemical_name,CAS_or_EDF_Substance_ID,inhalation_cancer_potency,inhalation_cancer_potency_units,inhalation_cancer_potency_source,inhalation_reference_concentration,inhalation_reference_concentration_units,inhalation_reference_concentration_source,national_ambient_air_quality_std,national_ambient_air_quality_std_units,national_ambient_air_quality_std_source,chemspider_id,Nat_Agg_PV
+OZONE,10028-15-6,,Unknown,Unknown,180,ug/m3,CAPCOA,0.12,"ppm, 1 hr",NAAQS,http://www.chemspider.com/ImagesHandler.ashx?id=13375217&w=250&h=250,Unknown
+HYDRAZINE SULFATE,10034-93-2,0.00086,[ug/m3]-1,OEHHA-TCD,0.0002,mg/m3,TRI,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23225&w=250&h=250,Unknown
+HYDROBROMIDE ACID,10035-10-6,,Unknown,Unknown,24,ug/m3,CAPCOA,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=2041177&w=250&h=250,"100,000,000 - 250,000,000 lb"
+ETHYLBENZENE,100-41-4,,Unknown,Unknown,2000,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7219&w=250&h=250,"10,000,000,000 - 20,000,000,000 lb"
+STYRENE,100-42-5,,Unknown,Unknown,900,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7220&w=250&h=250,"10,000,000,000 - 20,000,000,000 lb"
+BORIC ACID,10043-35-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7346&w=250&h=250,"500,000,000 - 750,000,000 lb"
+RADON,10043-92-2,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23240&w=250&h=250,Unknown
+BENZYL CHLORIDE,100-44-7,4.9E-05,[ug/m3]-1,OEHHA-TCD,12,ug/m3,CAPCOA,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13840690&w=250&h=250,"50,000,000 - 100,000,000 lb"
+CHLORINE DIOXIDE,10049-04-4,,Unknown,Unknown,0.6,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23251&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+ALMOND ARTIFICIAL ESSENTIAL OIL,100-52-7,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=235&w=250&h=250,"10,000,000 - 50,000,000 lb"
+N-NITROSOPIPERIDINE,100-75-4,0.0027,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7245&w=250&h=250,Unknown
+SODIUM SELENITE (H2O3SE.2NA),10102-18-8,,Unknown,Unknown,20,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23308&w=250&h=250,Unknown
+NITROGEN DIOXIDE,10102-44-0,,Unknown,Unknown,20,ug/m3,OEHHA-CREL,100,"ug/m3, 1 yr",NAAQS,http://www.chemspider.com/ImagesHandler.ashx?id=2297499&w=250&h=250,Unknown
+"4,4'-METHYLENEBIS(2-CHLOROANILINE)",101-14-4,0.00043,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=4447496&w=250&h=250,"1,000,000 - 10,000,000 lb"
+"1,1'-METHYLENEBIS(4-ISOCYANATOBENZENE)",101-68-8,,Unknown,Unknown,0.7,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=64886785&w=250&h=250,"750,000,000 - 1,000,000,000 lb"
+CAPROLACTAM,105-60-2,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7480&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+"2,4-DIMETHYLPHENOL",105-67-9,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=21432015&w=250&h=250,"10,000,000 - 50,000,000 lb"
+SODIUM BICHROMATE,10588-01-9,,Unknown,Unknown,0.2,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23723&w=250&h=250,"100,000,000 - 250,000,000 lb"
+CHLORAMINE,10599-90-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23735&w=250&h=250,Unknown
+CARBENDAZIM,10605-21-7,6.82857142857143E-07,[ug/m3]-1,OPP-CAN,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=23741&w=250&h=250,Unknown
+P-XYLENE,106-42-3,,Unknown,Unknown,200,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7521&w=250&h=250,"5,000,000,000 - 10,000,000,000 lb"
+P-CRESOL,106-44-5,,Unknown,Unknown,4,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13839082&w=250&h=250,"50,000,000 - 100,000,000 lb"
+"1,4-DICHLOROBENZENE",106-46-7,1.1E-05,[ug/m3]-1,OEHHA-TCD,800,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13866817&w=250&h=250,"50,000,000 - 100,000,000 lb"
+P-PHENYLENEDIAMINE,106-50-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=107378&w=250&h=250,Withheld
+COKE OVEN EMISSIONS,1066,0.00062,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,https://www.cancer.gov/PublishedContent/Images/images/causes/substances/coke-oven-emissions.__v50023345.jpg,Unknown
+"1,2-BUTYLENE OXIDE",106-88-7,,Unknown,Unknown,20,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7546&w=250&h=250,Withheld
+EPICHLOROHYDRIN,106-89-8,2.3E-05,[ug/m3]-1,OEHHA-TCD,3,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13837112&w=250&h=250,"250,000,000 - 500,000,000 lb"
+"1,2-DIBROMOETHANE",106-93-4,7.1E-05,[ug/m3]-1,OEHHA-TCD,0.8,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=15231178&w=250&h=250,Withheld
+"1,3-BUTADIENE",106-99-0,0.00017,[ug/m3]-1,OEHHA-TCD,20,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=556946&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+"1,2-DICHLOROETHANE",107-06-2,2.1E-05,[ug/m3]-1,OEHHA-TCD,400,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13837650&w=250&h=250,"20,000,000,000 - 30,000,000,000 lb"
+ETHYLENEDIAMINE,107-15-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13835550&w=250&h=250,"100,000,000 - 250,000,000 lb"
+GLYPHOSATE,1071-83-6,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=3376&w=250&h=250,Unknown
+ETHYLENE GLYCOL,107-21-1,,Unknown,Unknown,400,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13835235&w=250&h=250,"5,000,000,000 - 10,000,000,000 lb"
+CYANIDE COMPOUNDS,1073,,Unknown,Unknown,0.003,mg/m3,TRI,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=5755&w=250&h=250,Unknown
+CHLOROMETHYL METHYL ETHER,107-30-2,0.00069,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13852893&w=250&h=250,Withheld
+DIBENZOFURANS (CHLORINATED),1080,,Unknown,Unknown,4E-05,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=551&w=250&h=250,Unknown
+VINYL ACETATE,108-05-4,,Unknown,Unknown,200,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7616&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+METHYL ISOBUTYL KETONE,108-10-1,,Unknown,Unknown,3,mg/m3,IRIS,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7621&w=250&h=250,"100,000,000 - 250,000,000 lb"
+MALEIC ANHYDRIDE,108-31-6,,Unknown,Unknown,0.7,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7635&w=250&h=250,"500,000,000 - 750,000,000 lb"
+M-XYLENE,108-38-3,,Unknown,Unknown,200,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7641&w=250&h=250,"250,000,000 - 500,000,000 lb"
+M-CRESOL,108-39-4,,Unknown,Unknown,4,ug/m3,OEHHA-CREL,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=21105871&w=250&h=250,"50,000,000 - 100,000,000 lb"
+MESITYLENE,108-67-8,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=2015220&w=250&h=250,"1,000,000 - 10,000,000 lb"
+TOLUENE,108-88-3,,Unknown,Unknown,300,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=1108&w=250&h=250,"10,000,000,000 - 20,000,000,000 lb"
+CYCLOHEXYLAMINE,108-91-8,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7677&w=250&h=250,"10,000,000 - 50,000,000 lb"
+CYCLOHEXANONE,108-94-1,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7679&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+PHENOL,108-95-2,,Unknown,Unknown,200,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=971&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+MALONONITRILE,109-77-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13884495&w=250&h=250,"500,000 - 1,000,000 lb"
+ETHYLENE GLYCOL MONOMETHYL ETHER,109-86-4,,Unknown,Unknown,60,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=4576323&w=250&h=250,"1,000,000 - 10,000,000 lb"
+FURAN,110-00-9,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7738&w=250&h=250,Withheld
+ETHYLENE GLYCOL MONOMETHYL ETHER ACETATE,110-49-6,,Unknown,Unknown,90,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=13864773&w=250&h=250,Unknown
+N-HEXANE,110-54-3,,Unknown,Unknown,7000,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=7767&w=250&h=250,"1,000,000,000 - 5,000,000,000 lb"
+ETHYLENE GLYCOL MONOETHYL ETHER,110-80-5,,Unknown,Unknown,70,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8146&t=l,"500,000 - 1,000,000 lb"
+PYRIDINE,110-86-1,,Unknown,Unknown,0.007,mg/m3,HWIR,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=1020&w=250&h=250,"10,000,000 - 50,000,000 lb"
+GASOLINE VAPORS,1110,,Unknown,Unknown,2100,ug/m3,CAPCOA,,Unknown,Unknown,https://upload.wikimedia.org/wikipedia/commons/4/49/Antioxidant.png,Unknown
+GLUTARALDHYDE,111-30-8,,Unknown,Unknown,0.08,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=3485&t=l,"1,000,000 - 10,000,000 lb"
+DIETHANOLAMINE,111-42-2,,Unknown,Unknown,3,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8113&t=l,"5,000,000,000 - 10,000,000,000 lb"
+N-NITROSODIETHANOLAMINE,1116-54-7,0.0008,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=14223&t=l,Unknown
+ETHYLENE GLYCOL MONOBUTYL ETHER,111-76-2,,Unknown,Unknown,700,ug/m3,OEHHA-CREL,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8133&t=l,"500,000,000 - 750,000,000 lb"
+PROPANE SULTONE,1120-71-4,0.00069,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=14264&t=l,Unknown
+MINERAL FIBERS,1136,,Unknown,Unknown,24,ug/m3,CAPCOA,,Unknown,Unknown,http://www.greenrooftechnology.com/Mineral%20Wool%20in%20Green%20Roofs/MineralWool%20GreenRoof%201.jpg,Unknown
+PROPYLENE,115-07-1,,Unknown,Unknown,3000,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=1030&t=l,"40,000,000,000 - 50,000,000,000 lb"
+ENDOSULFAN,115-29-7,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=3224&t=l,Unknown
+SILICA,1175,,Unknown,Unknown,3,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://static.molinstincts.com/compound_common/Silica-2D-structure-CT1000381975.png,Unknown
+"2,4,6-TRINITROTOLUENE",118-96-7,8.57142857142857E-06,[ug/m3]-1,IRIS,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8376&t=l,"1,000,000 - 10,000,000 lb"
+"3,3'-DIMETHOXYBENZIDINE",119-90-4,0.0001333333,[ug/m3]-1,OEHHA-NSRL,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8411&t=l,Unknown
+NICKEL SUBSULFIDE,12035-72-2,0.00049,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,http://www.t3db.ca/structures/T3D0698/image.png,"1,000,000 - 10,000,000 lb"
+TRIETHYLAMINE,121-44-8,,Unknown,Unknown,200,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8471&t=l,"10,000,000 - 50,000,000 lb"
+MALATHION,121-75-5,,Unknown,Unknown,0.02,mg/m3,ATSDR,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4004&t=l,Unknown
+FENITROTHION,122-14-5,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=31200&t=l,Unknown
+DIPHENYLAMINE,122-39-4,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=11487&t=l,"50,000,000 - 100,000,000 lb"
+PHENYL GLYCIDYL ETHER,122-60-1,4E-06,[ug/m3]-1,OEHHA-NSRL,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=31217&t=l,"100,000 - 500,000 lb"
+HYDROQUINONE,123-31-9,1.6E-05,[ug/m3]-1,TRI,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=785&t=l,"10,000,000 - 50,000,000 lb"
+"CROTONALDEHYDE, (E)-",123-73-9,0.0005428571,[ug/m3]-1,HEAST,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=447466&t=l,Unknown
+"1,4-DIOXANE",123-91-1,7.7E-06,[ug/m3]-1,OEHHA-TCD,3000,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=18956710&t=l,"1,000,000 - 10,000,000 lb"
+DIMETHYLAMINE,124-40-3,,Unknown,Unknown,2,ug/m3,CAPCOA,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=674&t=l,"250,000,000 - 500,000,000 lb"
+METHACRYLONITRILE,126-98-7,,Unknown,Unknown,0.0007,mg/m3,HEAST,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=31368&t=l,Unknown
+TETRACHLOROETHYLENE,127-18-4,5.9E-06,[ug/m3]-1,OEHHA-TCD,35,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=31373&t=l,"250,000,000 - 500,000,000 lb"
+DIMETHYL PHTHALATE,131-11-3,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8554&t=l,"1,000,000 - 10,000,000 lb"
+MOLYBDENUM TRIOXIDE,1313-27-5,,Unknown,Unknown,0.00024,mg/m3,TRI,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=14118&w=250&h=250,"100,000,000 - 250,000,000 lb"
+NICKEL OXIDE,1313-99-1,,Unknown,Unknown,0.1,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=179931&t=l,"10,000,000 - 50,000,000 lb"
+VANADIUM OXIDE (5),1314-62-1,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=14814&t=l,"10,000,000 - 50,000,000 lb"
+ZINC PHOSPHIDE,1314-84-7,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4643716&t=l,Unknown
+XYLENE (MIXED ISOMERS),1330-20-7,,Unknown,Unknown,700,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://media.scbt.com/product/12/36/b/123686.jpg,"5,000,000,000 - 10,000,000,000 lb"
+POLYCHLORINATED BIPHENYLS,1336-36-3,0.00057,[ug/m3]-1,OEHHA-TCD,1.2,ug/m3,CAPCOA,,Unknown,Unknown,https://www.researchgate.net/profile/Patricia_Ruiz4/publication/278046513/figure/fig1/AS:611288279445505@1522753891500/Chemical-structure-of-PCBs-PCBs-polychlorinated-biphenyls.png,Unknown
+METHYL ETHYL KETONE PEROXIDE,1338-23-4,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=3672772&t=l,"10,000,000 - 50,000,000 lb"
+SODIUM SELENATE (H2O4SE.2NA),13410-01-0,,Unknown,Unknown,20,ug/m3,OEHHA-CREL,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=25960&t=l,Unknown
+PHENAZOPYRIDINE HYDROCHLORIDE,136-40-3,4.3E-05,[ug/m3]-1,OEHHA-TCD,,Unknown,Unknown,,Unknown,Unknown,https://upload.wikimedia.org/wikipedia/commons/6/6f/Phenazopyridine.svg,Unknown
+SODIUM VANADIUM OXIDE,13718-26-8,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=91667783&t=l,"1,000,000 - 10,000,000 lb"
+THIRAM,137-26-8,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=5455&t=l,"1,000,000 - 10,000,000 lb"
+LITHIUM CHROMATE,14307-35-8,,Unknown,Unknown,0.2,ug/m3,OEHHA-CREL,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=26627&t=l,Unknown
+SODIUM CYANIDE,143-33-9,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=8929&t=l,"250,000,000 - 500,000,000 lb"
+POTASSIUM CYANIDE,151-50-8,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.chemspider.com/ImagesHandler.ashx?id=8681&w=250&h=250,"1,000,000 - 10,000,000 lb"
+"1,2-TRANS-DICHLOROETHYLENE",156-60-5,,Unknown,Unknown,0.2,ppm,ATSDR,,Unknown,Unknown,https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=643833&t=l,"1,000,000 - 10,000,000 lb"
+"2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN (TCDD)",1746-01-6,38,[ug/m3]-1,OEHHA-TCD,4E-05,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://upload.wikimedia.org/wikipedia/commons/8/84/2%2C3%2C7%2C8-TCDD-2D-skeletal.png,Unknown
+PROPACHLOR,1918-16-7,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Propachlor.svg/1024px-Propachlor.svg.png,Unknown
+VINYLTOLUENE,25013-15-4,,Unknown,Unknown,0.04,mg/m3,HEAST,,Unknown,Unknown,https://upload.wikimedia.org/wikipedia/commons/6/6a/4-VT.png,"10,000,000 - 50,000,000 lb"
+TOLUENE DIISOCYANATE (MIXED ISOMERS),26471-62-5,1.1E-05,[ug/m3]-1,OEHHA-TCD,0.07,ug/m3,OEHHA2003_CREL_UG_M3,,Unknown,Unknown,https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwiEgJOLwajjAhVaV80KHcvEB0QQjRx6BAgBEAU&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Ftoluene-diisocyanate-8020-15537787173.html&psig=AOvVaw34uLe-f3_1rO9SosMe835d&ust=1562784772264013,"500,000,000 - 750,000,000 lb"
+"1,1,1-TRICHLORO-2,2-DIHYDROXYETHANE",302-17-0,,Unknown,Unknown,,Unknown,Unknown,,Unknown,Unknown,http://www.stenutz.eu/chem/mol2svg.php?id=17046&w=6&h=6,"< 25,000 lb"

@@ -1,0 +1,103 @@
+illnesslocations_id,location_id,illness_name,city_name
+1,1840034016,Bronchiolitis,New York
+2,1840020491,Influenza,Los Angeles
+3,1840000494,Severe Acute Respiratory Syndrome,Chicago
+4,1840015149,Asthma,Miami
+5,1840019440,Tuberculosis,Dallas
+6,1840000673,Severe Acute Respiratory Syndrome,Philadelphia
+7,1840020925,Nontuberculosis Mycobacteria,Houston
+8,1840006060,Silicosis,Washington
+9,1840013660,Primary Ciliary Dyskinesia,Atlanta
+10,1840000455,Asthma,Boston
+11,1840020568,Human Metapneumovirus,Phoenix
+12,1840021117,Sarcoidosis,Seattle
+13,1840021543,Sleep Apnea,San Francisco
+14,1840003971,Human Metapneumovirus,Detroit
+15,1840021990,Hantavirus Pulmonary Syndrome,San Diego
+16,1840007830,Asthma,Minneapolis
+17,1840015982,Severe Acute Respiratory Syndrome,Tampa
+18,1840018789,Influenza,Denver
+19,1840034030,Byssinosis,Brooklyn
+20,1840034002,Asthma,Queens
+21,1840001592,Asthma,Baltimore
+22,1840020551,Pneumonia,Riverside
+23,1840001651,Hantavirus Pulmonary Syndrome,Saint Louis
+24,1840020364,Primary Ciliary Dyskinesia,Las Vegas
+25,1840019941,Severe Acute Respiratory Syndrome,Portland
+26,1840022220,Lung Cancer,San Antonio
+27,1840021491,Lung Cancer,Sacramento
+28,1840021570,Lung Cancer,San Jose
+29,1840015099,Lung Cancer,Orlando
+30,1840000596,Hantavirus Pulmonary Syndrome,Cleveland
+31,1840001254,Sleep Apnea,Pittsburgh
+32,1840003814,Acute Bronchitis,Cincinnati
+33,1840034000,Asbestosis,Manhattan
+34,1840019590,Severe Acute Respiratory Syndrome,Austin
+35,1840008535,Lung Cancer,Kansas City
+36,1840030084,Bronchiolitis,Indianapolis
+37,1840003760,Primary Ciliary Dyskinesia,Columbus
+38,1840003871,Sudden Infant Death Syndrome,Virginia Beach
+39,1840014557,Severe Acute Respiratory Syndrome,Charlotte
+40,1840033999,Byssinosis,Bronx
+41,1840003046,Acute Bronchitis,Milwaukee
+42,1840003289,Byssinosis,Providence
+43,1840015031,Bronchiolitis,Jacksonville
+44,1840021383,Bronchiectasis,Salt Lake City
+45,1840036155,Lung Cancer,Nashville
+46,1840015457,Byssinosis,Memphis
+47,1840001698,Cystic Fibrosis,Richmond
+48,1840001839,Emphysema,New Orleans
+49,1840014497,Tuberculosis,Raleigh
+50,1840030815,Mesothelioma,Louisville
+51,1840020428,Cystic Fibrosis,Oklahoma City
+52,1840004836,Byssinosis,Bridgeport
+53,1840000386,Bronchiectasis,Buffalo
+54,1840004773,Byssinosis,Hartford
+55,1840020696,Acute Bronchitis,Fort Worth
+56,1840022101,Mesothelioma,Tucson
+57,1840023252,Lymphangioleiomyomatosis,El Paso
+58,1840013305,Coccidioidomycosis,Honolulu
+59,1840009315,Tuberculosis,Omaha
+60,1840021024,Silicosis,McAllen
+61,1840019176,Hypersensitivity Pneumonitis,Albuquerque
+62,1840006507,Hypersensitivity Pneumonitis,Birmingham
+63,1840034249,Severe Acute Respiratory Syndrome,Dayton
+64,1840000373,Human Metapneumovirus,Rochester
+65,1840015988,Middle Eastern Respiratory Syndrome,Sarasota
+66,1840020319,Sarcoidosis,Fresno
+67,1840001044,Emphysema,Allentown
+68,1840021672,Sleep Apnea,Tulsa
+69,1840018905,Mesothelioma,Concord
+70,1840015130,Emphysema,Cape Coral
+71,1840000466,Bronchiolitis,Springfield
+72,1840018825,Asthma,Colorado Springs
+73,1840015163,Lung Cancer,Charleston
+74,1840002928,Respiratory Syncytial Virus,Grand Rapids
+75,1840020580,Byssinosis,Mission Viejo
+76,1840000417,Tuberculosis,Albany
+77,1840014486,Tuberculosis,Knoxville
+78,1840013941,Lymphangioleiomyomatosis,Baton Rouge
+79,1840019148,Human Metapneumovirus,Bakersfield
+80,1840020135,Bronchiectasis,Ogden
+81,1840004850,Severe Acute Respiratory Syndrome,New Haven
+82,1840014730,Primary Ciliary Dyskinesia,Columbia
+83,1840000791,Lymphangioleiomyomatosis,Akron
+84,1840020174,Byssinosis,Provo
+85,1840000434,Asthma,Worcester
+86,1840020566,Severe Acute Respiratory Syndrome,Mesa
+87,1840015094,Byssinosis,Palm Bay
+88,1840000572,Respiratory Syncytial Virus,Toledo
+89,1840020553,Acute Respiratory Distress Syndrome ,Murrieta
+90,1840001686,Asthma,Wichita
+91,1840007069,Pneumonia,Des Moines
+92,1840034032,Respiratory Syncytial Virus,Staten Island
+93,1840020490,Asthma,Long Beach
+94,1840013501,Respiratory Syncytial Virus,Greenville
+95,1840015509,Asthma,Little Rock
+96,1840001288,Asbestosis,Harrisburg
+97,1840019390,Pneumonia,Denton
+98,1840002915,Histoplasmosis,Madison
+99,1840020121,Middle Eastern Respiratory Syndrome,Reno
+100,1840015119,Sleep Apnea,Port Saint Lucie
+101,1840034016,Asthma,
+102,1840020491,Bronchiectasis,
